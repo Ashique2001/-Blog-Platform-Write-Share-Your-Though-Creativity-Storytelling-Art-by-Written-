@@ -1,2 +1,11 @@
-# -Blog-Platform-Write-Share-Your-Though-Creativity-Storytelling-Art-by-Written-
-A full-stack blogging platform built with React (frontend) and Node.js + Express + MongoDB (backend). Features include user authentication, post creation, profile pages, and real-time database integration.
+# Blog Assignment Starter (Backend + Frontend + Mobile)
+
+This repository contains a starter scaffold for the blog assignment:
+
+- backend/  - Node.js + Express + MongoDB (auth, posts, profile)
+- frontend/ - React + Redux Toolkit + SCSS (minimal pages)
+- mobile/   - Flutter + GetX skeleton
+
+Follow each subfolder README for setup instructions.
+
+Good luck! — Generated for you by ChatGPT
