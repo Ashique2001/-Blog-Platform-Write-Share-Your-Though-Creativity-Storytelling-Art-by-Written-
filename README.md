@@ -1,4 +1,4 @@
-# Blog Assignment Starter (Backend + Frontend + Mobile)
+# Blog Assignment (Backend + Frontend + Mobile)
 
 This repository contains a starter scaffold for the blog assignment:
 
@@ -6,6 +6,5 @@ This repository contains a starter scaffold for the blog assignment:
 - frontend/ - React + Redux Toolkit + SCSS (minimal pages)
 - mobile/   - Flutter + GetX skeleton
 
-Follow each subfolder README for setup instructions.
 
-Good luck! — Generated for you by ChatGPT
+
